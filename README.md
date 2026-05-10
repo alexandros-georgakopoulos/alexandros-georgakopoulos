@@ -1,16 +1,31 @@
-## Hi there 👋
+# Alexandros Georgakopoulos
 
-<!--
-**alexandros-georgakopoulos/alexandros-georgakopoulos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at Ionian University and indie game developer from Greece.
 
-Here are some ideas to get you started:
+I build games, cybersecurity tools, and machine learning projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### Vaultborn Dash
+2D mobile platformer built with Godot.  
+Includes levels, enemies, coins, traps, character abilities, boss fights, and mobile gameplay.
+
+### Phiraxon AI
+Hybrid AI-powered defensive phishing and threat analysis platform for emails, URLs, headers, and attachments.
+
+### Type 2 Diabetes Risk Assessment
+Streamlit app for Type 2 Diabetes risk assessment using clinical and biomarker values.
+
+## Main Interests
+
+- Game Development
+- Cybersecurity
+- Machine Learning
+- Web Development
+- SQL
+
+## Links
+
+- GitHub: https://github.com/alexandros-georgakopoulos
+- Vaultborn Dash: βάλε εδώ το itch.io link σου
+- LinkedIn: βάλε εδώ το LinkedIn σου
