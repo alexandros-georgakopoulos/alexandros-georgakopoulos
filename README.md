@@ -9,6 +9,7 @@ I build games, cybersecurity tools, and machine learning projects.
 ### Vaultborn Dash
 2D mobile platformer built with Godot.  
 Includes levels, enemies, coins, traps, character abilities, boss fights, and mobile gameplay.
+Vaultborn Dash – Available on Google Play [https://play.google.com/store/apps/details?id=com.alexandrosgeorgakopoulos.vaultborndash]
 
 ### Phiraxon AI
 Hybrid AI-powered defensive phishing and threat analysis platform for emails, URLs, headers, and attachments.
