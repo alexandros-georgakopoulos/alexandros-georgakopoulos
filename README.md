@@ -29,4 +29,5 @@ Streamlit app for Type 2 Diabetes risk assessment using clinical and biomarker v
 
 - GitHub: https://github.com/alexandros-georgakopoulos
 - Vaultborn Dash: https://alexnadros-georgakopoulos.itch.io/vaultborn-dash
+- Vaultborn Dash: https://play.google.com/store/apps/details?id=com.alexandrosgeorgakopoulos.vaultborndash
 - LinkedIn: https://www.linkedin.com/in/alexandrosgeorgakopoulos/
